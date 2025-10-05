@@ -3,3 +3,7 @@ Lab Assignment 1: Using Git and Python for Collaborative Coding in Google Colab 
 
 Group Members
 Xi Chen 30091854
+
+
+
+Eriko Saka 30273940
