@@ -27,5 +27,5 @@ Semester: &emsp; 2025 Fall, L02 <br>
 - data.xlsx
 <br>
 <br>
-  group contract has already submitted as a part of priject summary, September 26th
+  group contract has already submitted as a part of project summary, September 26th
 
