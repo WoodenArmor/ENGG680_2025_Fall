@@ -25,7 +25,10 @@ Semester: &emsp; 2025 Fall, L02 <br>
 - studentGrades_Math.csv
 - studentHomerooms.csv
 - data.xlsx
+
+- README.md
+- Group contract.PDF
 <br>
 <br>
-  group contract has already submitted as a part of project summary, September 26th
+
 
