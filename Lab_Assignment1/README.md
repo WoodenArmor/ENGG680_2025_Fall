@@ -18,16 +18,15 @@ Semester: &emsp; 2025 Fall, L02 <br>
 <br>
 
 ***
-
+This folder contains the code and necessary data for Assignment 1 of ENGG680 Lec02 Fall 2025, by Group 5
 #### Files included:
-- assignment1_notebook.ipynb
+- Assignment1.ipynb
 - studentGrades_English.csv
 - studentGrades_Math.csv
 - studentHomerooms.csv
 - data.xlsx
-
 - README.md
-- Group contract.PDF
+
 <br>
 <br>
 
